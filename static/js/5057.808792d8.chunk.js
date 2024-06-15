@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[5057],{5057:(e,t,s)=>{e.exports=s.p+"static/media/vibe.43d150893abd48ef7cfe.svg"}}]);

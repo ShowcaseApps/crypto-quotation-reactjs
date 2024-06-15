@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[6999],{6999:(e,c,t)=>{e.exports=t.p+"static/media/ela.efbcc9ec501e0fc7cb10.svg"}}]);

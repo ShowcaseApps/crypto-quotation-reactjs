@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[6524],{6524:(e,t,a)=>{e.exports=a.p+"static/media/meetone.ff12f888a054ba95338d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[7424],{7424:(e,t,c)=>{e.exports=c.p+"static/media/krb.d22313c50f4c23c92ebe.svg"}}]);

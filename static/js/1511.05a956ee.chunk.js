@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[1511],{1511:(e,t,a)=>{e.exports=a.p+"static/media/fida.dad0bb33a5e0fce8e944.svg"}}]);

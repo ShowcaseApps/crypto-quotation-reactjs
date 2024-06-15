@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[8275],{8275:(t,e,c)=>{t.exports=c.p+"static/media/gto.f143cfb3c06de0a57126.svg"}}]);

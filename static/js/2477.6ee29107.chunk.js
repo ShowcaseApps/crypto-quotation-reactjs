@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[2477],{2477:(e,t,o)=>{e.exports=o.p+"static/media/eon.4200e9fe163be3e06261.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[7064],{7064:(t,e,o)=>{t.exports=o.p+"static/media/klown.a37051013490d7f912f0.svg"}}]);

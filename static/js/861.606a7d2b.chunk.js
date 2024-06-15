@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[861],{861:(e,t,s)=>{e.exports=s.p+"static/media/gmr.d39f0ec8006683d63e11.svg"}}]);

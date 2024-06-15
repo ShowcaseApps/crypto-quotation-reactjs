@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3629],{3629:(t,e,s)=>{t.exports=s.p+"static/media/salt.baec6923b1f538995535.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[6444],{6444:(e,t,s)=>{e.exports=s.p+"static/media/spacehbit.8e61854a5e035b559421.svg"}}]);

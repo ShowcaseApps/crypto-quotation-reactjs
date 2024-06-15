@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[1488],{1488:(t,e,s)=>{t.exports=s.p+"static/media/ncash.66b24b9c5688e5fb3b85.svg"}}]);

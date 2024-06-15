@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[5220],{5220:(e,t,s)=>{e.exports=s.p+"static/media/ethos.57c569d016fae37ca4ef.svg"}}]);

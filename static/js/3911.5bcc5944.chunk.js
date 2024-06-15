@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3911],{3911:(e,t,a)=>{e.exports=a.p+"static/media/avax.2e175f4a477edd69683a.svg"}}]);

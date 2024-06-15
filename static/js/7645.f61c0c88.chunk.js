@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[7645],{7645:(e,t,a)=>{e.exports=a.p+"static/media/sberbank.ecf44aeac686e476e1e8.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3219],{3219:(e,t,a)=>{e.exports=a.p+"static/media/vrsc.87ea205a99f0bea207a5.svg"}}]);

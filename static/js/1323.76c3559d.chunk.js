@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[1323],{1323:(t,e,a)=>{t.exports=a.p+"static/media/steem.ac14c4445b750897c8aa.svg"}}]);

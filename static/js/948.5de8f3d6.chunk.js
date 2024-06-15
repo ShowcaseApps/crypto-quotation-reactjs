@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[948],{8567:(t,e,c)=>{t.exports=c.p+"static/media/cloak.d95f6907898fdbc3b293.svg"}}]);

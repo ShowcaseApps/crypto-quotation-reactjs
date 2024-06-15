@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[9615],{9615:(t,e,s)=>{t.exports=s.p+"static/media/xmg.d80be67505ba089ddb83.svg"}}]);

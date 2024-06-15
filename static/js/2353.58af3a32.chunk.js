@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[2353],{2353:(t,e,a)=>{t.exports=a.p+"static/media/apex.011ab5975582673973a0.svg"}}]);

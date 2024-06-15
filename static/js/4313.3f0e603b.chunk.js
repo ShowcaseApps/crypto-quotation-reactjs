@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4313],{4313:(t,e,s)=>{t.exports=s.p+"static/media/sushi.53f796c48e1945c0c7a9.svg"}}]);

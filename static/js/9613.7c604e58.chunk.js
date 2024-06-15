@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[9613],{9613:(t,e,c)=>{t.exports=c.p+"static/media/ignis.155cabe39415b88c1fc7.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[2590],{2590:(t,e,c)=>{t.exports=c.p+"static/media/zil.57208331162cd46e267c.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[6235],{6235:(e,t,c)=>{e.exports=c.p+"static/media/zest.e3f3ce7f16ec3c8f2264.svg"}}]);

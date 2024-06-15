@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[2801],{2801:(t,a,e)=>{t.exports=e.p+"static/media/pasl.d58164379ac9b1791fa2.svg"}}]);

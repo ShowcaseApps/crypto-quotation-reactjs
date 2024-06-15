@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[9941],{9941:(t,c,e)=>{t.exports=e.p+"static/media/call.d9574c13c95946fd1883.svg"}}]);

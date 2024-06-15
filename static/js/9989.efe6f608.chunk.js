@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[9989],{9989:(e,t,s)=>{e.exports=s.p+"static/media/elix.e640849613503e5ee6af.svg"}}]);

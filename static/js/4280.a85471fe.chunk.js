@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4280],{4280:(e,t,b)=>{e.exports=b.p+"static/media/bcio.db0ef6f467b1f304cebb.svg"}}]);

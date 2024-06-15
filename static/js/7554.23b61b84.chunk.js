@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[7554],{7554:(e,c,t)=>{e.exports=t.p+"static/media/mcap.de07dcce0191ad38c1ec.svg"}}]);

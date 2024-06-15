@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[2883],{2883:(t,c,a)=>{t.exports=a.p+"static/media/theta.7fcd7ca2cafc0a91c305.svg"}}]);

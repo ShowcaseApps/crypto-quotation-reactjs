@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[2806],{2806:(t,e,s)=>{t.exports=s.p+"static/media/polis.4b3fb523f1cb3d22b31f.svg"}}]);

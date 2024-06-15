@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4255],{4255:(t,e,p)=>{t.exports=p.p+"static/media/payx.404d2343d5350d505096.svg"}}]);

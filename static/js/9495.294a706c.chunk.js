@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[9495],{9495:(t,e,o)=>{t.exports=o.p+"static/media/nano.8d1662d4ef245b306842.svg"}}]);

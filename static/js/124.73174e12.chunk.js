@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[124],{124:(t,e,a)=>{t.exports=a.p+"static/media/fct.936a3e1cb2736fa66f11.svg"}}]);

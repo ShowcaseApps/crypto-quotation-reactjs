@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[5467],{5467:(t,c,e)=>{t.exports=e.p+"static/media/icp.ac82951a31220bc1f3f0.svg"}}]);

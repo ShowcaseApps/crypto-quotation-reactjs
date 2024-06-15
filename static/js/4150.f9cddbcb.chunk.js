@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4150],{4150:(e,t,c)=>{e.exports=c.p+"static/media/music.4c938e287fd5b28e5a9c.svg"}}]);

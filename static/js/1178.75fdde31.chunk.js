@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[1178],{1178:(t,e,a)=>{t.exports=a.p+"static/media/wabi.f1bedb41dfa82a371f57.svg"}}]);

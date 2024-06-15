@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3458],{3458:(t,e,s)=>{t.exports=s.p+"static/media/eqli.cfa58b48579bd7fb0508.svg"}}]);

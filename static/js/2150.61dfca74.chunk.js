@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[2150],{2150:(t,c,e)=>{t.exports=e.p+"static/media/coqui.968529c75d5bc001515b.svg"}}]);

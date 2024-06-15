@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[6601],{6601:(e,t,s)=>{e.exports=s.p+"static/media/veri.9628621d892ee05aeb58.svg"}}]);

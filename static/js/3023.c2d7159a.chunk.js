@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3023],{3023:(e,t,o)=>{e.exports=o.p+"static/media/vivo.ee26e762b6bdca710f25.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3488],{3488:(e,t,a)=>{e.exports=a.p+"static/media/flux.93a40ef95e10a8424a5b.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[2413],{2413:(e,t,o)=>{e.exports=o.p+"static/media/safemoon.040f6843fc928ce9fef9.svg"}}]);

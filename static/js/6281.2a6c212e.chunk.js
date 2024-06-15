@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[6281],{6281:(e,t,c)=>{e.exports=c.p+"static/media/nexo.87cd1eb6b0ab4c7ccd8f.svg"}}]);

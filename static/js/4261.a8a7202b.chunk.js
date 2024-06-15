@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4261],{6642:(e,t,o)=>{e.exports=o.p+"static/media/flo.fbafe395017647fcefb2.svg"}}]);

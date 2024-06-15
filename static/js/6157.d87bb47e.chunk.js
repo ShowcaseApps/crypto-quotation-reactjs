@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[6157],{6157:(e,t,c)=>{e.exports=c.p+"static/media/matic.705ec80071e282e989cf.svg"}}]);

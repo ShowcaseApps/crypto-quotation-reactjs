@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[8326],{8326:(t,e,a)=>{t.exports=a.p+"static/media/clam.3e33cf5f1ac262a4df46.svg"}}]);

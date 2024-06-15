@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[68],{68:(e,t,s)=>{e.exports=s.p+"static/media/tern.8975e5629cd8998e3536.svg"}}]);

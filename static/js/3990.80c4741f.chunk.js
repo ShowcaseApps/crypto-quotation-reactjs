@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3990],{3990:(e,t,a)=>{e.exports=a.p+"static/media/pirl.1e8bf262a25abe2ea059.svg"}}]);

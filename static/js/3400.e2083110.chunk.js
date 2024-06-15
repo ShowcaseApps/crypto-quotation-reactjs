@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3400],{3400:(t,a,e)=>{t.exports=e.p+"static/media/taas.5a37e5a8c973fd7b0cbf.svg"}}]);

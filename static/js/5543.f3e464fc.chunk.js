@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[5543],{5543:(t,e,o)=>{t.exports=o.p+"static/media/miota.519f669836fbbc2b9703.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[1679],{1679:(t,e,s)=>{t.exports=s.p+"static/media/tnb.5479d29690ff200daef6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[9561],{9561:(t,e,a)=>{t.exports=a.p+"static/media/ary.6a9f6e40273388951b6d.svg"}}]);

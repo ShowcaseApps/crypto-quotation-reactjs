@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3330],{3330:(t,e,o)=>{t.exports=o.p+"static/media/booty.84cf9ec1b483fbeb433d.svg"}}]);

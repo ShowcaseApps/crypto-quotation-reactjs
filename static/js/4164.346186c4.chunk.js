@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4164],{4164:(e,t,s)=>{e.exports=s.p+"static/media/sky.677776342e61a64051e0.svg"}}]);

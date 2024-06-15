@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[1400],{1400:(t,c,e)=>{t.exports=e.p+"static/media/vtho.0d52bb1c774dc892b0c6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4427],{4427:(t,e,s)=>{t.exports=s.p+"static/media/qiwi.e38fd618722336987989.svg"}}]);

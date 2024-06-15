@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[1539],{1539:(t,e,a)=>{t.exports=a.p+"static/media/aywa.bd810f6633fcc9319d36.svg"}}]);

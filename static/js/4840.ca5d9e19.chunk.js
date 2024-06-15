@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4840],{4840:(t,e,a)=>{t.exports=a.p+"static/media/maid.4705f072eb3210273a7d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[1774],{1774:(t,e,c)=>{t.exports=c.p+"static/media/agi.dc8243d300e10b70c342.svg"}}]);

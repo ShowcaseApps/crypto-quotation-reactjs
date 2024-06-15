@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[4173],{4173:(t,e,o)=>{t.exports=o.p+"static/media/moac.d473d42f0549885d2440.svg"}}]);

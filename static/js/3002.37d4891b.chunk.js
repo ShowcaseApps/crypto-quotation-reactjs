@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_quotation_web=self.webpackChunkcrypto_quotation_web||[]).push([[3002],{3002:(e,t,a)=>{e.exports=a.p+"static/media/exmo.be97a16316d1bc98b7a9.svg"}}]);
